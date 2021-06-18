@@ -8,7 +8,13 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Drop-images-NormalRai
 
 }
 
-На основе сайтов... {
+Codepen {
+
+https://codepen.io/vladimirsaenko/pen/jOBJpVL
+
+}
+
+На основе сайтов {
 
 https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
 
