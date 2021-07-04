@@ -1,20 +1,20 @@
 # Drop-Images-Normal-Rain
  
-Сайт, прародитель которого является сайт Crazy-Balls-or-Images-Drop и Drop-Images-InvertRain. Фича-падающие картинки как дождь
+### Сайт, прародитель которого является сайт Crazy-Balls-or-Images-Drop и Drop-Images-InvertRain. Фича-падающие картинки как дождь
 
-Porftolio-2 {
+### Porftolio-2 {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Drop-images-NormalRain/index.html
 
 }
 
-Codepen {
+### Codepen {
 
 https://codepen.io/vladimirsaenko/pen/jOBJpVL
 
 }
 
-На основе сайтов {
+### На основе сайтов {
 
 https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
 
