@@ -40,7 +40,7 @@ function dropImage() {
     drop.style.height = 50 + size + 'px';
     drop.style.backgroundImage = bg;
     section.appendChild(drop);
-    setTimeout( ()=>{
+    setTimeout( ()=> {
         drop.remove()
     }, 6000);
 }
