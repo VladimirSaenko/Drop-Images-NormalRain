@@ -1,6 +1,4 @@
 # Drop-Images-NormalRain
- 
-## Дождь из случайных изображений
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150164246-56d82b6d-1628-4fe1-8423-de2878007f27.jpeg)
 
